@@ -10,8 +10,8 @@ I'm currently working on contributing to and building open source Rust projects
 
 # 📊 GitHub Stats:
 ![Dennis' GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisN22042003&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
-![](https://nirzak-streak-stats.vercel.app/?user=DennisN22042003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisN22042003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DennisN22042003&theme=dark)](https://git.io/streak-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisN22042003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DennisN22042003&theme=dark&no-frame=false&no-bg=false&margin-w=4)
