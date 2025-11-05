@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on contributing to and building open source Rust-based developer tools
+I'm currently working on contributing to and building Rust-based developer tools
 
 
 ## 🌐 Socials:
