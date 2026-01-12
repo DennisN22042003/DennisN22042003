@@ -1,4 +1,3 @@
-
 name: Waka Readme
 
 on:
@@ -17,6 +16,18 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Check WakaTime API key
+        run: |
+          if [ -z "$WAKATIME_API_KEY" ]; then
+            echo "WakaTime API key is empty!"
+            exit 1
+          else
+            echo "WakaTime API key is set and has length ${#WAKATIME_API_KEY}"
+          fi
+        shell: bash
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
       - name: Update README with WakaTime stats
         uses: anmol098/waka-readme-stats@v5
