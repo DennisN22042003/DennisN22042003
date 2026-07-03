@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-125%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.83%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -44,18 +44,22 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 4 mins        █████████████████████░░░░   84.95 % 
+GitIgnore file           25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+RustRover                5 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+merchant-core            5 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/07/2026 16:46:47 UTC
+ Last Updated on 03/07/2026 16:22:09 UTC
 <!--END_SECTION:waka-->
