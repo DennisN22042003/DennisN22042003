@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-235%20hrs%2024%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.83%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -44,22 +44,22 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               14 hrs 58 mins      ████████████████░░░░░░░░░   62.85 % 
-CSS                      5 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-JSON                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
-.env file                18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               14 hrs 1 min        ███████████████░░░░░░░░░░   61.22 % 
+CSS                      6 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+.env file                16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-RustRover                23 hrs 50 mins      █████████████████████████   100.00 % 
+RustRover                22 hrs 53 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-merchant-core            23 hrs 50 mins      █████████████████████████   100.00 % 
+merchant-core            22 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 50 mins      █████████████████████████   100.00 % 
+Linux                    22 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 16:33:57 UTC
+ Last Updated on 25/07/2026 16:00:01 UTC
 <!--END_SECTION:waka-->
