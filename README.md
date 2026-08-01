@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
@@ -46,20 +46,20 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               21 hrs 42 mins      ████████████████████████░   96.04 % 
-CSS                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+TypeScript               20 hrs 6 mins       █████████████████████████   99.75 % 
+Makefile                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 justfile                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RustRover                22 hrs 36 mins      █████████████████████████   100.00 % 
+RustRover                20 hrs 9 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-merchant-core            22 hrs 36 mins      █████████████████████████   100.00 % 
+merchant-core            20 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    22 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 31/07/2026 16:42:06 UTC
+ Last Updated on 01/08/2026 15:57:50 UTC
 <!--END_SECTION:waka-->
