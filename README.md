@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2035%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
@@ -46,20 +46,20 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-TypeScript               15 hrs 25 mins      ████████████████████████░   96.78 % 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-.env file                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               11 hrs 37 mins      ████████████████████████░   95.75 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+.env file                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-RustRover                15 hrs 56 mins      █████████████████████████   100.00 % 
+RustRover                12 hrs 8 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-merchant-core            15 hrs 56 mins      █████████████████████████   100.00 % 
+merchant-core            12 hrs 8 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 04/08/2026 16:49:00 UTC
+ Last Updated on 05/08/2026 16:28:32 UTC
 <!--END_SECTION:waka-->
