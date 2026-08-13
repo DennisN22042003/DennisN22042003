@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-272%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
@@ -46,20 +46,20 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Docker                   5 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.11 % 
-.env file                3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   21.68 % 
-TypeScript               2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Makefile                 1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Markdown                 56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+.env file                3 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.05 % 
+Docker                   2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+TypeScript               1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+Rust                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Markdown                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-RustRover                15 hrs 18 mins      █████████████████████████   100.00 % 
+RustRover                11 hrs 50 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-merchant-core            15 hrs 18 mins      █████████████████████████   100.00 % 
+merchant-core            11 hrs 50 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 18 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 12/08/2026 15:54:58 UTC
+ Last Updated on 13/08/2026 15:54:42 UTC
 <!--END_SECTION:waka-->
