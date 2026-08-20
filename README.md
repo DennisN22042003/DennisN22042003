@@ -46,20 +46,20 @@ Sunday                   25 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Rust                     6 hrs 31 mins       ███████████░░░░░░░░░░░░░░   43.40 % 
-TypeScript               4 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   30.08 % 
-Markdown                 2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-.env file                46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Rust                     5 hrs 2 mins        ███████████░░░░░░░░░░░░░░   44.20 % 
+TypeScript               4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.87 % 
+Markdown                 2 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+GitIgnore file           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+TOML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-RustRover                15 hrs 1 min        █████████████████████████   100.00 % 
+RustRover                11 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-merchant-core            15 hrs 1 min        █████████████████████████   100.00 % 
+merchant-core            11 hrs 24 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    11 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +69,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 19/08/2026 15:25:44 UTC
+ Last Updated on 20/08/2026 15:28:05 UTC
 <!--END_SECTION:waka-->
