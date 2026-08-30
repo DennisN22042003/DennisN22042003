@@ -39,25 +39,6 @@ Saturday                 59 commits          ███░░░░░░░░�
 Sunday                   25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Nairobi
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 🤖 **AI Coding This Week** 
 
 ```text
