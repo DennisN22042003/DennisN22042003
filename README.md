@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-295%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
@@ -46,46 +46,29 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Rust                     5 hrs 16 mins       █████████████████░░░░░░░░   67.64 % 
-TypeScript               1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-ActionScript             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Rust                     5 hrs 29 mins       ██████████████░░░░░░░░░░░   55.10 % 
+TypeScript               2 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Makefile                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 🔥 Editors: 
-Zed                      7 hrs 11 mins       ███████████████████████░░   92.36 % 
-Antigravity IDE          35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Zed                      9 hrs 58 mins       █████████████████████████   99.96 % 
+RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-merchant-core            7 hrs 47 mins       █████████████████████████   100.00 % 
+merchant-core            9 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 47 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (7.59%)
-
-✍️ 0 lines written by AI, 735 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 97 AI Prompts
-
-Gemini                   77 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 208 characters per prompt
-🔁 Iterative Prompter — average 97 prompts per session
-🔍 Hands-On Reviewer — 93.43% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/09/2026 18:45:17 UTC
+ Last Updated on 18/09/2026 18:01:33 UTC
 <!--END_SECTION:waka-->
