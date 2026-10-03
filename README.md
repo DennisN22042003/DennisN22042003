@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
@@ -46,23 +46,23 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Astro                    8 hrs 9 mins        ██████████████░░░░░░░░░░░   54.99 % 
-Markdown                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-YAML                     1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-git ignore               27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Astro                    5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
+YAML                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Markdown                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+Rust                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 🔥 Editors: 
-Zed                      14 hrs 29 mins      ████████████████████████░   97.71 % 
-RustRover                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Zed                      14 hrs 43 mins      █████████████████████████   98.91 % 
+RustRover                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🐱‍💻 Projects: 
-kuki-core                11 hrs 18 mins      ███████████████████░░░░░░   76.28 % 
-kuki-oss                 3 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-merchant-core            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+kuki-core                9 hrs 6 mins        ███████████████░░░░░░░░░░   61.24 % 
+kuki-oss                 5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
+merchant-core            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Linux                    14 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 02/10/2026 19:43:30 UTC
+ Last Updated on 03/10/2026 18:30:18 UTC
 <!--END_SECTION:waka-->
