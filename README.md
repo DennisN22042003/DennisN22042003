@@ -46,23 +46,23 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Astro                    5 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   40.04 % 
-YAML                     2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-Markdown                 1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Rust                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-JavaScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Astro                    2 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+YAML                     2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Markdown                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Rust                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+TOML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-Zed                      14 hrs 43 mins      █████████████████████████   98.91 % 
-RustRover                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Zed                      10 hrs 28 mins      █████████████████████████   98.48 % 
+RustRover                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 🐱‍💻 Projects: 
-kuki-core                9 hrs 6 mins        ███████████████░░░░░░░░░░   61.24 % 
-kuki-oss                 5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.67 % 
-merchant-core            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+kuki-oss                 5 hrs 36 mins       █████████████░░░░░░░░░░░░   52.70 % 
+kuki-core                4 hrs 52 mins       ███████████░░░░░░░░░░░░░░   45.77 % 
+merchant-core            9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Linux                    14 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -72,5 +72,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2026 18:30:18 UTC
+ Last Updated on 04/10/2026 18:30:49 UTC
 <!--END_SECTION:waka-->
