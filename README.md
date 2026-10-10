@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
@@ -46,21 +46,21 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Rust                     11 hrs 29 mins      █████████████████░░░░░░░░   68.36 % 
-TOML                     2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-YAML                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-SQL                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Rust                     13 hrs 15 mins      ██████████████████░░░░░░░   73.19 % 
+TOML                     2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+YAML                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🔥 Editors: 
-Zed                      16 hrs 47 mins      █████████████████████████   100.00 % 
+Zed                      18 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kuki-oss                 16 hrs 21 mins      ████████████████████████░   97.41 % 
-kuki-core                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+kuki-oss                 17 hrs 34 mins      ████████████████████████░   96.95 % 
+kuki-core                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 💻 Operating System: 
-Linux                    16 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    18 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,5 +70,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 09/10/2026 19:58:46 UTC
+ Last Updated on 10/10/2026 19:06:08 UTC
 <!--END_SECTION:waka-->
