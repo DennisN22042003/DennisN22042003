@@ -1,11 +1,11 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-245.56%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-268.12%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -22,21 +22,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-🌆 Daytime                209 commits         █████████░░░░░░░░░░░░░░░░   37.06 % 
-🌃 Evening                177 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
-🌙 Night                  160 commits         ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+🌞 Morning                20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+🌆 Daytime                211 commits         █████████░░░░░░░░░░░░░░░░   36.38 % 
+🌃 Evening                188 commits         ████████░░░░░░░░░░░░░░░░░   32.41 % 
+🌙 Night                  161 commits         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   109 commits         █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
-Tuesday                  103 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Wednesday                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Thursday                 116 commits         █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-Friday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Monday                   118 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Tuesday                  107 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Wednesday                84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Thursday                 116 commits         █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Friday                   51 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+Saturday                 67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Sunday                   37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 ```
 
 
@@ -46,21 +46,21 @@ Sunday                   37 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Rust                     19 hrs 22 mins      ██████████████████░░░░░░░   73.28 % 
-TOML                     3 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-YAML                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-GraphQL                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Rust                     14 hrs 58 mins      █████████████████░░░░░░░░   69.39 % 
+TOML                     2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+YAML                     2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+GraphQL                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 
 🔥 Editors: 
-Zed                      26 hrs 26 mins      █████████████████████████   100.00 % 
+Zed                      21 hrs 34 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kuki-oss                 25 hrs 33 mins      ████████████████████████░   96.65 % 
-kuki-core                53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+kuki-oss                 20 hrs 40 mins      ████████████████████████░   95.78 % 
+kuki-core                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 💻 Operating System: 
-Linux                    26 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -70,5 +70,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 13/10/2026 20:28:54 UTC
+ Last Updated on 14/10/2026 19:08:25 UTC
 <!--END_SECTION:waka-->
