@@ -46,22 +46,21 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Rust                     5 hrs 20 mins       ██████████████████░░░░░░░   73.57 % 
-TOML                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
-YAML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
-SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Rust                     4 hrs 17 mins       ████████████████████░░░░░   79.06 % 
+TOML                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Docker                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+SQL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+shell script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-Zed                      7 hrs 15 mins       █████████████████████████   100.00 % 
+Zed                      5 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kuki-oss                 7 hrs 13 mins       █████████████████████████   99.68 % 
-kuki-core                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+kuki-oss                 5 hrs 24 mins       █████████████████████████   99.87 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    7 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -71,5 +70,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/10/2026 18:03:11 UTC
+ Last Updated on 26/10/2026 20:16:39 UTC
 <!--END_SECTION:waka-->
