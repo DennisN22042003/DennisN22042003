@@ -1,7 +1,7 @@
 # About Me:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-372%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-36%20hrs-blue?style=flat)
 
@@ -46,20 +46,17 @@ Sunday                   43 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Nairobi
 
 💬 Programming Languages: 
-Rust                     3 hrs 12 mins       ████████████████████░░░░░   78.91 % 
-TOML                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-shell script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Rust                     1 hr 50 mins        ██████████████████░░░░░░░   70.25 % 
+TOML                     46 mins             ███████░░░░░░░░░░░░░░░░░░   29.75 % 
 
 🔥 Editors: 
-Zed                      4 hrs 4 mins        █████████████████████████   100.00 % 
+Zed                      2 hrs 36 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-kuki-oss                 4 hrs 4 mins        █████████████████████████   99.83 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+kuki-oss                 2 hrs 36 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -69,5 +66,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 28/10/2026 20:02:09 UTC
+ Last Updated on 29/10/2026 20:01:38 UTC
 <!--END_SECTION:waka-->
